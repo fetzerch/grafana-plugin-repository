@@ -455,6 +455,18 @@
           "url": "https://github.com/mtanda/grafana-heatmap-epoch-panel"
         }
       ]
+    },
+    {
+      "id": "fetzerch-sunandmoon-datasource",
+      "type": "datasource",
+      "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "commit": "e70b5cfcae4e89740f0acbbe27dea669361837cc",
+          "url": "https://github.com/fetzerch/grafana-sunandmoon-datasource"
+        }
+      ]
     }
   ]
 }
